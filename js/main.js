@@ -70,7 +70,7 @@ $(function(){
                         $('.en, .en a').addClass('color')
                         $('header .inner .depth1 > li > a').addClass('java2')
                         $('header .inner .header-img a img').attr({ src: "images/logo_black.png" })
-                        $('.right-icon-none').attr({src : 'images/ico_24_allmenu_black.png'})    
+                        $('.right-icon-none').attr({src :'images/ico_24_allmenu_black.png'})    
                     }else if(index == 1){
                         $('.en, .en a').removeClass('color')
                         $('header .inner .depth1 > li > a').removeClass('java2')
